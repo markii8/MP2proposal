@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.leftPanel{ width: 20%; float: left; min-height: 990px; background-color: rgb(41, 122, 39); color: #fff;}
+
+.rightPanel{ width:80%; float: left;}
+
